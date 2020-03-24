@@ -1,0 +1,204 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "rahasia",
+      "role": "admin"
+    },
+    {
+      "password": "maungapain",
+      "username": "dobleh",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "hanif",
+      "password": "2121",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "tes",
+      "password": "a123",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "akusiapa",
+      "password": "aab",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "username": "siapa",
+      "password": "123",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "username": "fani",
+      "password": "hentai",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "username": "hanif",
+      "password": "210396",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "username": "batman",
+      "password": "layu",
+      "role": "user",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "name": "Aki motor Harley Davidson Sportster 1200 Motobatt",
+      "image": "https://s2.bukalapak.com/img/2589225881/w-1000/Aki_motor_Harley_Davidson_Sportster_1200_Motobatt_MBYZ16HD_Q.jpg",
+      "stok": 100,
+      "kategoriId": 1,
+      "harga": 1500000,
+      "deskripsi": "Aki motor MBYZ16HD , quadflex 4 terminals, 12v 16.5ah, CCA 240, Dimensi PLT : 15x8.7x14.5cm, Sportster 1200,48,72, Sportster 883, rekomen u/ BMW :, ...",
+      "id": 2,
+      "kategori": "Otomotif"
+    },
+    {
+      "name": "SHARP Microwave Grill Inverter R-751GX(BS) ",
+      "image": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/8/6/17312217/17312217_df9a9788-797b-44a2-a8fc-1f61dffaafa0_500_500",
+      "stok": 10,
+      "kategoriId": 2,
+      "harga": 1200000,
+      "deskripsi": "Jual SHARP Microwave Grill Inverter R-751GX(BS) dengan harga Rp1.200.000, Jakarta Pusat",
+      "id": 3
+    },
+    {
+      "name": "Sepatu Puma Suede Classic Original",
+      "image": "https://s1.bukalapak.com/img/12503907611/w-1000/Sepatu_Puma_Suede_Classic_Original.jpeg",
+      "stok": 11,
+      "kategoriId": 3,
+      "harga": 900000,
+      "deskripsi": "RARE ITEM !!!, PUMA SUEDE CLASSIC X PIGEON STEEL GREY ORIGINAL BNIB, Brand New In Box (BNIB), 100% Original Quality, LIMITED EDITION !!!",
+      "id": 4
+    },
+    {
+      "name": "Asus ROG",
+      "image": "https://1.bp.blogspot.com/-h30i9-kMc00/XVFvNRof-_I/AAAAAAAAAxk/ModaiFtgVYMZP8FUvSp5R-OJCXIV46KIQCLcBGAs/s320/Asus-ROG-Phone.jpg",
+      "stok": 100,
+      "kategoriId": 2,
+      "harga": 1000000,
+      "deskripsi": "Asus Rog terbaru cocok buat para Gamers",
+      "id": 5
+    },
+    {
+      "name": "Sepatu Nike",
+      "image": "https://cdn.idntimes.com/content-images/community/2019/01/nike-mag-hed-2016-3b640ee3e0c81916acff2d833fa5ced3.jpg",
+      "stok": 100,
+      "kategoriId": 3,
+      "harga": 100000,
+      "deskripsi": "cocok buat pamer ama anak basket.",
+      "id": 6
+    }
+  ],
+  "kategoris": [
+    {
+      "id": 1,
+      "nama": "Otomotif"
+    },
+    {
+      "id": 2,
+      "nama": "Elektronik"
+    },
+    {
+      "id": 3,
+      "nama": "Sepatu"
+    }
+  ],
+  "transactions": [
+    {
+      "status": "oncart",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "status": "oncart",
+      "userId": 9,
+      "id": 2
+    },
+    {
+      "status": "oncart",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "status": "oncart",
+      "userId": 7,
+      "id": 4
+    }
+  ],
+  "transactiondetails": [
+    {
+      "transactionId": 1,
+      "productId": 4,
+      "qty": 1,
+      "id": 2
+    },
+    {
+      "transactionId": 1,
+      "productId": 2,
+      "qty": 1,
+      "id": 4
+    },
+    {
+      "transactionId": 1,
+      "productId": 4,
+      "qty": 1,
+      "id": 5
+    },
+    {
+      "transactionId": 1,
+      "productId": 4,
+      "qty": 1,
+      "id": 6
+    },
+    {
+      "transactionId": 1,
+      "productId": 4,
+      "qty": 1,
+      "id": 7
+    },
+    {
+      "transactionId": 1,
+      "productId": 4,
+      "qty": 1,
+      "id": 8
+    },
+    {
+      "transactionId": 2,
+      "productId": 6,
+      "qty": 2,
+      "id": 9
+    },
+    {
+      "transactionId": 3,
+      "productId": 2,
+      "qty": 3,
+      "id": 15
+    },
+    {
+      "transactionId": 3,
+      "productId": 6,
+      "qty": 3,
+      "id": 16
+    },
+    {
+      "transactionId": 4,
+      "productId": 6,
+      "qty": 3,
+      "id": 17
+    }
+  ]
+}
